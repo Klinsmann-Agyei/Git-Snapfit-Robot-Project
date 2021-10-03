@@ -1,0 +1,15 @@
+git init
+git status
+git add .
+git status
+git commit -m "hey cool trick"
+git log
+git add disclaimer.txt
+git status
+git commit -m "add warning"
+git log
+git add . 
+git status
+git commit -m "revise files"
+git log
+git add .
